@@ -42,7 +42,7 @@ Testing:
 5. The maximum working pressure of TBL device will differ with the size and materials used for fabrication
 
 Prerequisites:
-1. User should be of min. 10 years old
+1. User should be of min. 10 years age
 2. A basic understanding of pneumatics is also recommended. 
 
 Tips:
