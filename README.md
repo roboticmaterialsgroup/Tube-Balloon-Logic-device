@@ -40,5 +40,5 @@ Prerequisites:
 2. A basic understanding of pneumatics is also recommended. 
 
 Tips:
-- User may use different dimentions of the straws, tubing and balloon, it will still work
+- User may use different dimentions of the straws, tubing, and balloon, it will still work depending on the fabrication
 - Make sure you wear ear buds to prevent hearing problems if balloon bursts.
