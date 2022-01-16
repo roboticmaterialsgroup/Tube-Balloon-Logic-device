@@ -1,7 +1,7 @@
 
 ## Tube-Balloon Logic for the Exploration of Fluidic Control Elements
 
-#Overview:
+# Overview:
 
 The Tube-balloon logic (TBL) device is a low cost technology which is intended to use as a logic gate for control of pneumatically driven systems. The TBL device is made from straws, tubing, and balloons, takes a novice five minutes to fabricate, and costs $0.45.  It can be configured as NOT-, NAND-, and NOR-gates and assembled into a three-ring oscillator. It can also operate at pressures of up to 200 kPa and oscillate at frequencies of up to 15 Hz. We demonstrate its usage for a vibrating sieve that separates sugar from rice along with the the fabrication process in the video.
 
