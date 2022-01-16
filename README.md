@@ -18,6 +18,7 @@ Overview of Materials:
 - Scale
 - Marker
 
+https://user-images.githubusercontent.com/68814774/149667466-09f4f92f-5de3-41bb-94a3-8ff9243bf6de.mp4
 
 Fabrication of Tube Balloon Logic (TBL) device:
 1. Mark the straws (diameter of 12.7 mm) at 40 mm pieces and cut it into two pieces
