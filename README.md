@@ -9,14 +9,15 @@ The Tube-balloon logic (TBL) device is a low cost technology which is intended t
 INSTRUCTION MANUAL
 
 Overview of Materials:
-- Flexible PVC tubing
-- Balloon
-- Straws
+- Flexible PVC tubing  (Model Name: PVC tubing (inner diameter 1 mm), Supplier: mcmaster.com, Unit cost: $0.29 / 30cm)
+- Balloon (Model Name: Koogel 260Q (Twisting balloon), Supplier: Amazon.com, Unit cost: $0.05)
+- Straws (Model Name: ALINK 100 1/2" (Boba Straw), Supplier: Amazon.com, Unit cost: $0.08)
+- Parafilm tape (Model Name: Parafilm M , Supplier: Amazon.com, Unit cost: $0.03 / 6 cm2)
 - Scissor
 - Hole puncher
-- Parafilm tape
 - Scale
 - Marker
+
 
 Fabrication of Tube Balloon Logic (TBL) device:
 1. Mark the straws (diameter of 12.7 mm) at 40 mm pieces and cut it into two pieces
